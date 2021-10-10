@@ -1,0 +1,36 @@
+.Right-col{
+    /* flex: 1; */
+    overflow: auto;
+    height: 30rem;
+}
+
+.cont{
+    padding-left: 5rem;
+    height: 30rem;
+}
+
+
+.todayTr{
+    
+    color:#959595;
+    padding: 3rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    
+    margin: 0;
+    border: 1px solid #E8E8E8;
+    border-radius: 5%;
+}
+.DataRow{
+    background-color: #D8DCE2;
+    border-radius: 2%;
+}
+.col{
+    padding: 0;
+    padding-right: 20px;
+}
+
+.btn-primary{
+    background-color:#5FA6F1;
+    border: none;
+}

@@ -1,0 +1,33 @@
+.SearchDiv{
+    background-color: #5FA6F1;
+    padding: 15px;
+    border-radius: 20px;
+    border:0;
+}
+
+.InputForm{
+    border-radius: 10px;
+}
+.Left-col{
+    padding-left: 0;
+}
+.SearchCol{
+    /* margin-left: 15px; */
+    background-color: #5FA6F1;
+    padding: 15px;
+    border-radius: 20px;
+    border:0;
+}
+
+.SearchColRow{
+    margin-left: 0;
+    color:#FFFFFF;
+    padding-left: 2rem;
+}
+
+.AirTemp{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    /* color: #FFFFFF; */
+}
